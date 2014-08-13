@@ -40,8 +40,7 @@
     "restify": "~2.5.1",
     "async": "~0.2.9",
     "request": "~2.33.0",
-    "restify-oauth2-oauthd": "~2.1.0",
-    "zlib": "~1.0.5"
+    "restify-oauth2-oauthd": "~2.1.0"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
@@ -65,7 +64,7 @@
     "grunt-contrib-coffee": "~0.7.0",
     "grunt-contrib-less": "~0.8.1",
     "grunt-concurrent": "~0.4.1",
-    
+
     "jayschema": "~0.2.0",
     "jsonlint": "~1.6.0",
     "q": "^1.0.1"
