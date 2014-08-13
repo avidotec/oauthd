@@ -111,5 +111,5 @@ module.exports = function(grunt) {
     grunt.registerTask('default', gruntConf.taskDefault);
     grunt.registerTask('heroku:', gruntConf.taskDefault);
     grunt.registerTask('server', ['default', 'concurrent:server']);
-    grunt.registerTask('test', ['nodeunit']);
+    grunt.registerTask('test', ['nodeunit']); 
 };
